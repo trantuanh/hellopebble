@@ -1,0 +1,24 @@
+{
+    "author": "tua270@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "hello",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Hello",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "3a006c85-85bb-47e1-8519-c284453e86b0",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
